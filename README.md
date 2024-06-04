@@ -57,5 +57,3 @@ weighted avg       0.80      0.80      0.80      1523
 
 ## Conclusion
 This project demonstrates the use of various machine learning models for classifying tweets as real disasters or not. The SVM model showed the best performance in terms of accuracy and other evaluation metrics.
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
