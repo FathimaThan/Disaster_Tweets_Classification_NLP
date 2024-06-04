@@ -7,6 +7,7 @@ The dataset used in this project is from the Kaggle competition. It contains the
 
 * train.csv: The training set
 * test.csv: The test set
+* sample_submission.csv: sample output file
 
 The dataset includes the following columns:
 
